@@ -1,7 +1,6 @@
-
 import React from "react";
 import Tooltip from "./Tooltip";
-import './../styles/App.css';
+import "../styles/App.css";
 
 const App = () => {
   return (
